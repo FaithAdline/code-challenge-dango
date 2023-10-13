@@ -1,0 +1,57 @@
+######Flatdango Movie Ticket Booking Application#
+Flatdango is a web application that allows users to browse and purchase movie tickets for Flatiron Movie Theater.
+
+$$Table of Contents$
+Introduction
+Requirements
+Project Setup
+Core Deliverables
+Bonus Deliverables
+Extra Bonus
+Sample db.json
+CSS Styles
+Introduction
+In this project, we'll be creating Flatdango, an application that enables users to browse available movies and purchase tickets for their preferred showtime.
+
+**Requirements**
+Core Deliverables
+See Movie Details
+
+Display details of the first movie on page load, including poster, title, runtime, showtime, and available tickets.
+Movie Menu
+
+Show a menu of all movies on the left side of the page.
+Use GET requests to retrieve movie data.
+Buy Tickets
+
+Allow users to buy a ticket for a movie.
+Update available tickets count upon purchase.
+Bonus Deliverables
+Switch Movie Details
+
+Click on a movie in the menu to view its details.
+Sold Out Indication
+
+Mark movies as "Sold Out" if no tickets are available.
+Update the menu to reflect sold-out movies.
+Extra Bonus
+Persist Ticket Sales
+
+Update the number of tickets sold on the server upon a ticket purchase.
+Delete Movie
+
+Allow the deletion of a movie from the server.
+Project Setup
+Create a new project folder.
+
+Initialize a new GitHub repository (ensure it is private).
+
+Add your TM as a contributor for grading purposes.
+
+Regularly commit to the repository.
+
+Sample db.json
+You can use the provided db.json file as a starting point for your server database. Modify it to suit your application's needs.
+
+CSS Styles
+For styling the application, you can refer to the provided CSS styles as a starting point. Modify and extend the styles to create an appealing user interface.

@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .movie {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  .movie img {
+    max-width: 100%;
+  }
+  
+  .movie .title {
+    font-size: 1.2em;
+    font-weight: bold;
+    
+  }
+  
+  .movie .description {
+    margin-top: 10px;
+  }
+  
+  .movie .showtime {
+    margin-top: 10px;
+    font-style: italic;
+  }
+  
